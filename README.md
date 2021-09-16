@@ -84,3 +84,20 @@ Veja as principais funcionalidades:
 
 
 
+# Como testar o projeto?
+(Considere ter o Node.js instalado na sua máquina)
+
+Baixe os arquivos do nosso repositório.
+No Visual Studio Code, abra o projeto baixado, e abra um terminal.
+Use 
+~~~
+npm init -y
+~~~
+
+Em segida vamos instalar o Bootstrap
+
+~~~
+npm install bootstrap --save
+~~~
+
+<h2>E pronto, você já pode testar o nosso site!</h2>

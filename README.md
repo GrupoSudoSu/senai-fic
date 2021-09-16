@@ -1,4 +1,5 @@
 
+
 <div align = "center">
   <img src = "https://user-images.githubusercontent.com/83087618/133335615-95493cbf-2376-4840-8587-188864a8bf31.png" width = "400px" />
   </div>
@@ -80,5 +81,6 @@ Veja as principais funcionalidades:
 - Limpeza de Dependências: serve para executar uma busca em todas as dependências e encontrar o que não está em uso. Isso gera uma exportação para o arquivo chamado .yarnclean.
 - Workspaces: Estruturar arquiteturas de pacotes em subpastas no Yarn.
 - Modo offline: Esse recurso tem como objetivo permitir que pacotes sejam instalados sem precisar estar conectado à internet.
+
 
 
